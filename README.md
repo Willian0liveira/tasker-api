@@ -365,6 +365,9 @@ O projeto foi desenvolvido com foco na aplicação de conceitos de desenvolvimen
 
 Desenvolvedor Mobile & Web
 
+Linkedin:  
+https://linkedin.com/in/willian0liveira
+
 Portfólio:  
 https://wbytesistemas.com.br
 
