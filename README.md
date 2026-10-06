@@ -7,7 +7,7 @@ A aplicação permite cadastrar usuários, criar e gerenciar tarefas, definir re
 ## Tecnologias
 
 - Java 17
-- Spring Boot 3.x
+- Spring Boot
 - Spring Data JPA
 - Spring Validation
 - H2 Database
